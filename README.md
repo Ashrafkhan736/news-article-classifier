@@ -34,7 +34,7 @@ This application predicts the category of news article
 
 `utils.py` file store spcraping, preprocessing and prediction logic
 
-`startup` file give acess to flask `app` object in ropt repo.
+`startup` file give acess to flask `app` object in root repo.
 
 ## For cloud deployment
 

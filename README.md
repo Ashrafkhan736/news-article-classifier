@@ -44,7 +44,7 @@ visit https://news-article-classifier-wiay.onrender.com/
 
 ## Deployment
 
-`deployment` branch stroes file runing on cloud on `render` cloud platform
+[deployment](https://github.com/Ashrafkhan736/news-article-classifier/tree/deployment) branch stroes file runing on cloud on `render` cloud platform
 
 To deploy flask app on render create a free account
 
@@ -63,7 +63,7 @@ Then start the webserver
 
 ## For local run
 
-### Go to `local_run` branch
+### Go to [local_run](https://github.com/Ashrafkhan736/news-article-classifier/tree/local_run) branch
 
 ## Create .env file in ./app/ repo
 
